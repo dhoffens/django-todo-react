@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\Dan\\.virtualenvs\\django-todo-react-p_kJsArn\\Scripts\\python.exe",
+    "python.linting.pylintArgs": [
+        "pylint_django"
+    ]
+}
